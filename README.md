@@ -1,5 +1,5 @@
-✈️ Global Flight Booking System 🌍
-A sleek, user-friendly platform for booking flights to destinations across the globe, offering real-time flight details and personalized options for a seamless travel experience.
+✈️ Global Flight Booking System
+🌍A sleek, user-friendly platform for booking flights to destinations across the globe, offering real-time flight details and personalized options for a seamless travel experience.
 
 🚀 [Features at a Glance] :-
 
