@@ -1,7 +1,17 @@
 #include<bits/stdc++.h>
 using namespace std;
 /*
-Airline flight reservation system (online booking of tickets in different flights for different destinations all over the world, cancellation of tickets, clear display of cancellation amount, refund of amount after cancellation, showing  availability of all flights, showing flights timings for all 7 days of a week, seats availability, seat selection for travelers by giving the complete layout of the seating arrangement inside the flights, food availability/non-availability inside the flights, change of travel dates and amount charged.)
+Airline flight reservation system 
+-online booking of tickets in different flights for different destinations all over the world,
+-cancellation of tickets,
+-clear display of cancellation amount,
+-refund of amount after cancellation, 
+-showing  availability of all flights, 
+-showing flights timings for all 7 days of a week, 
+-seats availability, 
+-seat selection for travelers by giving the complete layout of the seating arrangement inside the flights,
+-food availability/non-availability inside the flights, 
+-change of travel dates and amount charged.
 */
 
 //To store the total number of seats in the flight
@@ -281,7 +291,7 @@ void welcome()
 {
 	std::cout << "\t\t|------------------------------------------------------------------|" << "\n";
 	std::cout << "\t\t|                                                                  |" << "\n"; 
-	std::cout << "\t\t|     WELCOME TO YRNCOLLO AIRLINE FLIGHT RESERVATION SYSTEM        |" << "\n";
+	std::cout << "\t\t|     WELCOME TO AVIN'S AIRLINE FLIGHT RESERVATION SYSTEM          |" << "\n";
 	std::cout << "\t\t|                                                                  |" << "\n"; 
 	std::cout << "\t\t|------------------------------------------------------------------|" << "\n";
 	std::cout << "\t\t|          Choose your option:                                     |" << "\n"; 
